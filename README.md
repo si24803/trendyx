@@ -1,0 +1,2 @@
+# trendyx
+trendyx project
